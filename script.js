@@ -14,8 +14,6 @@ const testi3 = document.querySelector('.testi3')
 
 
 
-
-
 //testimonial parent container
 const tests = document.querySelector('.tests');
 let nextNextInt = window.setInterval(function() {
@@ -54,9 +52,6 @@ let prevint = window.setInterval(function() {
 
 
 
-
-
-
 //middle dot click
 next.addEventListener("click", function() {
 
@@ -81,8 +76,6 @@ next.addEventListener("click", function() {
 
 
 
-
-
 //third dot click
 nextNext.addEventListener("click", function() {
 
@@ -102,11 +95,6 @@ nextNext.addEventListener("click", function() {
 })
 
 
-
-
-
-
-
 //first dot click
 prev.addEventListener("click", function() {
 
@@ -124,18 +112,7 @@ prev.addEventListener("click", function() {
 	tests.classList.add('first');
 })
 
-////////////////// end of testimonial section
-
-
-
-
-
-
-
-
-
-
-
+////////////////// end of testimonial sections
 
 
 
@@ -170,9 +147,6 @@ for (let i = 0; i < acc.length; i++) {
 }
 
 
-
-
-
 /////////popup//////////////
 
 //declare default vars
@@ -195,8 +169,6 @@ subBtn.addEventListener("click", () => {
 closeModal.addEventListener("click", function() {
 	popUpLayer.style.display = 'none';
 })
-
-
 
 
 let popUpSeconds = 5;

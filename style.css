@@ -11,6 +11,11 @@ body {
 	}
 }
 
+#sub-btn {
+	color: black;
+	text-decoration: none;
+}
+
 .pop-up-layer {
 	opacity: 0%;
 	display: none; /*we will change this with javascript*/
