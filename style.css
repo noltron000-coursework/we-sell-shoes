@@ -171,7 +171,7 @@ HERO
 */
 
 .hero {
-	z-index: -1;
+	z-index: 0;
 	position: relative;
 
 	height: calc(98vh - 50px);

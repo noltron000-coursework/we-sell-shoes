@@ -13,7 +13,6 @@ const testi2 = document.querySelector('.testi2');
 const testi3 = document.querySelector('.testi3')
 
 
-
 //testimonial parent container
 const tests = document.querySelector('.tests');
 let nextNextInt = window.setInterval(function() {
