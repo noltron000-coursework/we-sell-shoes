@@ -1,3 +1,8 @@
-# FEW-1-1_we-sell-shoes
-Shoes Web Project
-The tutorial was buggy - but this repo remains mostly functional
+# We Sell Shoes 👞
+***Introductory Web Tutorial***
+> This project was created at [Make School](https://github.com/MakeSchool), a modern and innovative college for future software engineers.  
+> To learn more, visit their [website](http://make.sc).
+
+This app is [Live on GitHub Pages](https://noltron000.github.io/we-sell-shoes)
+
+This tutorial walked me through many basic frontend concepts in the web with HTML, CSS, and JavaScript.
