@@ -6,4 +6,4 @@
 This app is **[Live on GitHub Pages](https://noltron000.github.io/we-sell-shoes)**
 
 This tutorial walked me through many basic frontend concepts in the web with HTML, CSS, and JavaScript.
-You can find this tutorial [here](https://www.makeschool.com/academy/track/we-sell-shoes)
+You can find this tutorial at https://www.makeschool.com/academy/track/we-sell-shoes
